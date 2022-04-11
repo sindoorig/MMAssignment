@@ -10,7 +10,7 @@ import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class PPT {
+public class Assignment2PPT {
 
 	public static void main(String[] args) throws AWTException, FileNotFoundException {
 		  
